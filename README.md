@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @James Ackah-Blay
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Terraform, Jenkins all other DevOps Tools
+- 🌱 I’m currently learning Terraform, Jenkins, and all other DevOps Tools
 - 💞️ I’m looking for a DevOps and Cloud internship 
 - 📫 How to reach me ... jamesblay80@gmail.com  https://www.linkedin.com/in/jamesackahblay/
 
-  Skills:
+  Skills: AWS 
   
 
 <!---
